@@ -5,7 +5,7 @@
 Scientists with the National Park Service are researching barnacle populations in coastal tide pools on the east coast. To analyze the results of their experiments, they often need to count the number of barnacles in a given area. To do this, they place a fixed size frame on a barnacle-covered rock, then take a picture. Later, a scientist/lab tech will manually count the number of barnacles in the picture, then record their results. There are often upwards of 1000 barnacles in an image, so this is a very time consuming process. 
 
 
-This project estimates the number of barnacles in coastal grid images using deep learning-based image segmentation through the following steps.
+This project estimates the number of barnacles in coastal grid images using deep learning-based image segmentation.
 
 ---
 
