@@ -43,13 +43,21 @@ A secondary dataset was generated, consisting of cropped raw images and masks, i
 
 ---
 
-## Example Results
+## Example Results (Raw Images)
 
 ### Image 1:
-- Raw barnacle count estimate: **~2604**
+- Raw barnacle count estimate: **3749**
 
 ### Image 2:
-- Raw barnacle count estimate: **~114**
+- Raw barnacle count estimate: **178**
+
+## Example Results (Cropped Images)
+
+### Image 1:
+- Raw barnacle count estimate: **4084**
+
+### Image 2:
+- Raw barnacle count estimate: **169**
 
 ---
 
